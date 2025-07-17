@@ -1,9 +1,9 @@
 [project]
 name = "fast-asyncio"
 version = "0.1.0"
-description = ""
+description = "Project Async"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Iago Cruz",email = "iago.cruz@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13,<4.0"
